@@ -1,0 +1,27 @@
+body {
+    background-image: url(../tex/WebsiteBG.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: left;
+}
+
+main {
+    text-align: left;
+}
+
+.p5js {}
+
+.header {
+    text-align: center;
+}
+
+.info {
+    background-color: rgba(78, 201, 201, 0.7);
+    text-align: left;
+    color: White;
+    font-size: 29px;
+    height: 80%;
+    width: 50%;
+    float: right;
+}
